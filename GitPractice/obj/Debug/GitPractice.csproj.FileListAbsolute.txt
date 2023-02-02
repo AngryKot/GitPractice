@@ -1,0 +1,11 @@
+D:\Новая папка\Csharp\GitPractice\GitPractice\bin\Debug\GitPractice.exe.config
+D:\Новая папка\Csharp\GitPractice\GitPractice\bin\Debug\GitPractice.exe
+D:\Новая папка\Csharp\GitPractice\GitPractice\bin\Debug\GitPractice.pdb
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.AssemblyReference.cache
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.Form1.resources
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.Properties.Resources.resources
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.GenerateResource.cache
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.CoreCompileInputs.cache
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.exe
+D:\Новая папка\Csharp\GitPractice\GitPractice\obj\Debug\GitPractice.pdb
