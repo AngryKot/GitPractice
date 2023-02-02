@@ -49,5 +49,13 @@ namespace GitPractice
             c = a - b;
             label1.Text = c.ToString();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToInt32(textBox1.Text);
+            b = Convert.ToInt32(textBox2.Text);
+            c = a / b;
+            label1.Text = c.ToString();
+        }
     }
 }
